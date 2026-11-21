@@ -1,0 +1,13 @@
+{
+  "name": "js-automation-testing",
+  "version": "1.0.0",
+  "description": "EPAM JS Automation Excellence Pathway: unit, API and UI tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yelubayev Yersultan",
+  "license": "ISC",
+  "type": "commonjs"
+}
